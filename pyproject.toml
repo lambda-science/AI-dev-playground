@@ -19,7 +19,7 @@ tensorboard = "^2.11.0"
 embetter = {version = "^0.3", extras = ["all"]}
 doubtlab = "^0.2.4"
 ipykernel = "^6.20.1"
-tensorflow = "^2.11.0"
+tensorflow = "^2.11.1"
 ipywidgets = "^8.0.4"
 umap-learn = "^0.5.3"
 scikeras = {extras = ["tensorflow"], version = "^0.10.0"}
