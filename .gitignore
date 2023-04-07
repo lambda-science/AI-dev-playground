@@ -130,3 +130,9 @@ dmypy.json
 
 data/*
 logs/
+.idea
+TG_Cut/
+wandb/
+models/
+nohup.out
+*.joblib
