@@ -5,7 +5,7 @@
       "type": "pythonEnvironment"
     },
     {
-      "path": "/home/meyer/.pyenv/versions/3.10.9/bin/python",
+      "path": "~/.pyenv/versions/3.10.11/bin/python",
       "type": "pythonEnvironment"
     },
     {
@@ -14,14 +14,6 @@
     },
     {
       "path": "/bin/python3",
-      "type": "pythonEnvironment"
-    },
-    {
-      "path": "/home/meyer/.pyenv/versions/3.8.16/bin/python",
-      "type": "pythonEnvironment"
-    },
-    {
-      "path": "/home/meyer/.pyenv/versions/3.9.16/bin/python",
       "type": "pythonEnvironment"
     }
   ]
